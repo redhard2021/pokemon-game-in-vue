@@ -1,5 +1,12 @@
 # pokemon-game
 
+Hi! If u want try this game in a web. Enter to : 
+https://ns-pokemongame.netlify.app/
+
+Project made with:
+Vue3 +  Bootstrap
+
+
 ## Project setup
 ```
 npm install
